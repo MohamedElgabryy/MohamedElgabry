@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently mastering **Java script**
+- 🌱 I’m currently mastering **Java Script**
 
 - 📫 How to reach me **mohamedd.elgabryy@gmail.com**
 
