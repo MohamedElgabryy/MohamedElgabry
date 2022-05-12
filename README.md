@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mohamedd.elgabryy@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://mohamedelgabryy.github.io/My-Portfolio/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://mohamedelgabry.netlify.app/)**
 
 <!-- - 🔭 I’m currently working on **[]()**
  -->
