@@ -17,7 +17,7 @@
 
 <!-- - 🔭 I’m currently working on **[]()**
  -->
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 
 <br/>
