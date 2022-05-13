@@ -1,7 +1,7 @@
 <img src="https://github.com/MohamedElgabryy/MohamedElgabryy/blob/main/memoji.png" align="right" width="29%"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohamed Elgabry</h1>
-<h3 align="left">I'm a passionate Full Stack Web Developer From Egypt.</h3>
+<h3 align="left">I'm a passionate Full-Stack Web Developer from Egypt.</h3>
 <br/>
 <br/>
 <br/>
