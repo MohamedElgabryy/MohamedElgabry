@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-## 🚀 Languages and Tools:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Languages and Tools
 
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -41,19 +41,17 @@
 
 <br/>
 <br/>
+
+
+
+## <img src="https://media.giphy.com/media/sRW4SCnxfcx1LaFBtt/giphy.gif" width="30px">&nbsp;Streak Stats
+<br/>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElgabryy&theme=algolia" alt="MohamedElgabryy" /></p>
+
 <br/>
 
 
-<p align="center">
-    <a href="https://github.com/MohamedElgabryy/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mohamed Elgabry's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElgabryy&theme=default&hide_border=false&"/>
-    </a>
-</p>
-
-<br/>
-<br/>
-
-## 👀 Views: 
+## 👀 Views 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MohamedElgabryy">
 </a>
