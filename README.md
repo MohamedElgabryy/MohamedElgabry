@@ -44,7 +44,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/sRW4SCnxfcx1LaFBtt/giphy.gif" width="30px">&nbsp;Streak Stats
+## 🔥 Streak Stats
 <br/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElgabryy&theme=algolia" alt="MohamedElgabryy" /></p>
 
