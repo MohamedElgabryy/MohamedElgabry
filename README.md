@@ -56,9 +56,6 @@
     <img src="https://komarev.com/ghpvc/?username=MohamedElgabryy">
 </a>
 
- ## 👀 Visitor count
- <br>
-<p> 
 
-  <img src="https://profile-counter.glitch.me/MohamedElgabryy/count.svg" />
-</p>
+ 
+
