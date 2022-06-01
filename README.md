@@ -1,6 +1,6 @@
 <img src="https://github.com/MohamedElgabryy/MohamedElgabryy/blob/main/memoji.png" align="right" width="25%"/>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohamed Elgabry</h1>
+<h1 align="left">Hi <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->, I'm Mohamed Elgabry</h1>
 <h3 align="left">I'm a passionate Full-Stack Web Developer from Egypt.</h3>
 <br/>
 <br/>
@@ -23,7 +23,7 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Languages and Tools
+## <!--<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;-->Languages and Tools
 
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
