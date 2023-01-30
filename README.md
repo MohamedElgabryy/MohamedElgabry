@@ -8,7 +8,12 @@
 </p>
 -->
 <br/>
-<br/>
+
+<p>
+<a href="https://github.com/MohamedElgabryy">
+    <img src="https://github-stats-alpha.vercel.app/api?username=MohamedElgabryy&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+</p>
 <br/>
 
 
@@ -33,11 +38,11 @@
 <br/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElgabryy&theme=algolia" alt="MohamedElgabryy" /></p>
 <br/>
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/MohamedElgabryy">
     <img src="https://github-stats-alpha.vercel.app/api?username=MohamedElgabryy&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
-</p>
+</p> -->
 
 ## 👀 Views 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
