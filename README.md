@@ -19,7 +19,7 @@
 
 ## 💁🏼‍♂️ About Me
 
--  I’m currently mastering **Java Script**
+<!-- -  I’m currently mastering **Java Script** -->
 
 -  How to reach me **mohamedd.elgabryy@gmail.com**
 
@@ -27,7 +27,7 @@
 
 <!-- - 🔭 I’m currently working on **[]()**
  -->
--  I’m looking to collaborate on **Open Source Projects**
+<!-- -  I’m looking to collaborate on **Open Source Projects** -->
 
 
 
@@ -36,7 +36,7 @@
 
 ## 🔥 Streak Stats
 <br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElgabryy&theme=algolia" alt="MohamedElgabryy" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElgabryy&theme=algolia" alt="MohamedElgabryy" /></p>
 <br/>
 <!-- <p align="center">
 <a href="https://github.com/MohamedElgabryy">
