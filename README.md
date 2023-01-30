@@ -18,13 +18,13 @@
 <br/>
 
 
-## 💁🏼‍♂️ About Me
+<!-- ## 💁🏼‍♂️ About Me -->
 
 <!-- -  I’m currently mastering **Java Script** -->
 
--  How to reach me **mohamedd.elgabryy@gmail.com**
+<!-- -  How to reach me **mohamedd.elgabryy@gmail.com**
 
--  All of my projects are available at **[My Portfolio](https://myportfolio-ten-ochre.vercel.app/)**
+-  All of my projects are available at **[My Portfolio](https://myportfolio-ten-ochre.vercel.app/)** -->
 
 <!-- - 🔭 I’m currently working on **[]()**
  -->
